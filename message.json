@@ -1,0 +1,41 @@
+﻿{
+	"name":"王淳",
+	"phone":"18829272634",
+	"email":"wangchun6157@163.com",
+	"college":"西安邮电大学",
+	"degree":"本科",
+	"major":"网络工程",
+	"work":"前端开发工程师",
+	"lab":"西邮移动应用开发实验室",
+	"skill":["熟练掌握HTML、CSS,熟悉页面结构和DIV+CSS布局;","了解Web标准、熟悉标签语义化；","熟悉JavaScript、熟练使用Ajax;","会使用jQuery和bootstrap框架，进行基本项目开发;","熟悉git代码管理;","良好的英文文档阅读能力;","了解PHP语法，会使用ThinkPHP框架进行简单开发;","熟悉photoshop;","了解react框架;","会使用MySQL数据库;"],
+	"project":[       			                   
+		
+		{
+			"name":"西邮图书馆",
+			"duty":"负责前端页面编码及设计",
+			"info":"本项目通过获取本校图书馆的api，完成学生登录，学生信息显示，查询借阅情况，图书续借、图书搜索等功能，可以在pc端和移动端查看;通过本项目，我学会了利用bootstrap框架以及媒体查询完成响应式设计，并通过jsonp进行跨域请求json数据",
+			"link":"http://www.loveweb.top/lib/index.html",
+			"img":"images/lib.jpg",
+			"date":"2016/01-至今"
+		},
+		{
+			"name":"西邮实验室汇总",
+			"duty":"独立完成，负责前后端页面编码及设计",
+			"info":"本项目旨在汇总西邮的各个实验室的情况，方便学生了解各个实验室的发展方向等信息，可以在pc端查看；通过本项目，我学习了利用php获取mysql数据库中的信息，以及如何使用fullPage.js插件实现整页滚动效果，是我第一个独立完成的完整的前后端设计的项目",
+			"link":"http://www.loveweb.top/xiyou_labs/index.html",
+			"img":"images/labs.jpg",
+			"date":"2015/12-2015/12"
+		},
+		{
+			"name":"购物商城",
+			"duty":"独立完成，负责整体页面编码及设计",
+			"info":"本项目模仿网上商城，实现了用户登录、注册，商品筛选，商品详情，商品购买等功能，可以在pc端查看；通过本项目，我学会了利用ajax进行请求数据以及并认识到了json数据格式的优点，学会使用php对代码进行代码重用，以增加代码可靠性，便于修改",
+			"link":"http://www.loveweb.top/shopping/shouye.html",
+			"img":"images/shopping.jpg",
+			"date":"2015/08-2015/08"
+		}
+	],
+	"hobby":["绘画<br><br>表演<br><br>音乐<br><br>唱歌<br><br>前端开发"],
+	"honor_study":["2013-2014年度国家励志奖学金<br><br>","2014-2015年度国家励志奖学金"],
+	"honor_contest":["2014微软创新杯大学生创新创业大赛优秀奖<br><br>","2015年第三届西邮网络科技协会创意杯网页设计大赛三等奖"]
+}
