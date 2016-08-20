@@ -33,12 +33,12 @@ ul li{
 .section{
   text-align: center;
   margin: 0 auto;
-  
+
 }
 .section1{
-  
+
   background: linear-gradient(to bottom,#dd9daa 0%,rgba(242,184,139,1) 100%);
-        padding-top: 100px;                  	
+        padding-top: 100px;
  }
  #info_photo{
   display: none;
@@ -233,7 +233,7 @@ background:rgba(84, 132, 228, 0.8) url('../images/more.png') no-repeat;
     border-radius: 0 0 5px 5px;
 }
 .section5{
-  
+
   background: linear-gradient(to bottom, #dd9d99 10%,rgba(206,216,207,1) 90%);
 }
 footer {
@@ -276,7 +276,7 @@ width: 100%;
 }
 .callMe-link{
     float: left;
-    margin: 0 40px;
+    margin: 0 20px;
 }
 .callMe-link-1{
     background: url('../images/link.png') 0px 0px no-repeat;
